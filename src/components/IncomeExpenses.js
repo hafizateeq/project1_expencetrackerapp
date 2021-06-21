@@ -28,11 +28,11 @@ export const IncomeExpenses = () => {
     <div className="ie-container">
       <div >
         <h4>Income</h4>
-        <p className="income-plus">{getIncome()}</p>
+        <p className="income-plus">${getIncome()}</p>
       </div>
       <div >
         <h4>Expenses</h4>
-        <p className="income-minus">{Math.abs(getExpense())}</p>
+        <p className="income-minus">${Math.abs(getExpense())}</p>
       </div>
     </div>
   )
