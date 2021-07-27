@@ -1,4 +1,3 @@
-console.log("registered");
 let CACHE_NAME = 'appv1';
 
 this.addEventListener('install', function(event) {
