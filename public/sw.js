@@ -13,6 +13,7 @@ this.addEventListener('install', function(event) {
           '/static/css/main.9b64c1d9.chunk.css',
           '/static/js/2.7b84d58f.chunk.js',
           '/static/js/main.9dc57f96.chunk.js',
+          'https://expensetrackerapp_project1.surge.sh/',
           '/index.html',
           '/'
         ]);
